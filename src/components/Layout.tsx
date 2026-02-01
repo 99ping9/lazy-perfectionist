@@ -12,7 +12,7 @@ export function Layout({ children }: LayoutProps) {
             </main>
 
             <footer className="w-full py-6 text-center text-gray-400 text-xs tracking-widest uppercase">
-                <p>윤슬기의 슬기로운 시스템 탐구생활</p>
+                <p>윤슬기의 슬기로운 시스템 탐구생활 Instagram @business.automator</p>
             </footer>
         </div>
     );
